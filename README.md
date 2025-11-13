@@ -35,7 +35,7 @@
 
   4. Integrate the Spring Boot back-end APIs into the React JS front-end using tools like Axios or Fetch API.
      
-=>Data Management:
+=>Data Management
 
   5. Implement data validation and error handling on both the front and back end to ensure data integrity.
      
